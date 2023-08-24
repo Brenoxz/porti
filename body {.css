@@ -1,0 +1,40 @@
+.rowbody{
+
+}
+    
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #8a00fc;
+}
+
+header {
+    background-color: #3498db;
+    color: rgb(0, 0, 0);
+    padding: 20px;
+    text-align: center;
+}
+
+header h1 {
+    margin-bottom: 10px;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+li {
+    margin-bottom: 5px;
+}
+
+#contact {
+    background-color: #fff;
+    padding: 20px;
+    margin-top: 20px;
+}
+
+#contact h2 {
+    margin-bottom: 10px;
+}
